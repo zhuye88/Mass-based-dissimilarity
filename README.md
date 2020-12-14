@@ -1,6 +1,8 @@
 # Mass-based-dissimilarity
 This software calculates the mass-based dissimilarity matrix for data mining algorithms relying on a distance measure.
 
+Main.m illustrates a contour of the scores produced by k-nearest neigbour anomaly detector using distance and me, as shown in Figure 8 in the original paper.
+
 References:
 Overcoming Key Weaknesses of Distance-based Neighbourhood Methods using a Data Dependent Dissimilarity Measure. KDD 2016 http://dx.doi.org/10.1145/2939672.2939779
 
